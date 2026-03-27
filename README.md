@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Ssuchada/Ssuchada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📚 My Portfolio
 
-Here are some ideas to get you started:
+รวมผลงานในรายวิชา
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Projects
+
+| 🧠 ชื่องาน | 📖 คำอธิบาย | 🔗 ลิงก์ |
+|-----------|------------|---------|
+| โปรแกรมคำนวณเกรด | เขียนด้วย Python | [GitHub](https://github.com/username/grade-calculator) |
+| เว็บไซต์แนะนำตัว | HTML + CSS | [GitHub](https://github.com/username/my-website) |
+| รายงาน AI | เอกสารสรุป | [Docs](https://docs.google.com/document/d/1H3C9FODXmAF1njLwbjPnBQSebrF2dKJZ0fRSnEk0tVo/edit?usp=sharing) |
+
+---
+
+## 👤 Author
+ชื่อ: ใส่ชื่อคุณ

@@ -1,8 +1,4 @@
-## Hi there 👋
-
 # 📚 My Portfolio
-
----
 
 ## 📌 งานเดี่ยว (Personal works)
 

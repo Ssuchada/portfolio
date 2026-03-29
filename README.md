@@ -1,4 +1,7 @@
 # 📚 My Portfolio
+นางสาวสุชาดา ศรีจักรโคตร รหัสนักศึกษา 67338068-0  
+
+Description: A collection of projects and coursework that highlight my development skills and experience in network programming course.
 
 ## 📌 งานเดี่ยว (Personal works)
 

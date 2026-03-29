@@ -39,5 +39,6 @@ This includes all checkpoint and exam scores, including the final exam.
 
 ---
 
-## 📌 Transcpription
+## 📌 Transcript
+<img src="transcrpit.png" width="700">
 

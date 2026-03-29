@@ -33,3 +33,11 @@ Description: A collection of projects and coursework that highlight my developme
 ---
 
 ## 📌 Cisco
+This includes all checkpoint and exam scores, including the final exam.  
+
+<img src="cisco.png" width="700">
+
+---
+
+## 📌 Transcpription
+

@@ -15,16 +15,14 @@
 
 |  ชื่องาน | 🔗 ลิงก์ |
 |-----------|---------|
-| Essay เครือข่ายคอมพิวเตอร์ที่ฉันรู้จักในชีวิตประจำวัน | [essay](https://docs.google.com/document/d/1H3C9FODXmAF1njLwbjPnBQSebrF2dKJZ0fRSnEk0tVo/edit?usp=sharing) |
-| เว็บไซต์แนะนำตัว | [GitHub](https://github.com/username/my-website) |
-| รายงาน AI | [Docs](https://docs.google.com/document/d/1H3C9FODXmAF1njLwbjPnBQSebrF2dKJZ0fRSnEk0tVo/edit?usp=sharing) |
+| Lab 1 | [Lab 1](https://docs.google.com/document/d/1yPGKjf_Vyqel0I7MJp_nV9_lddYLbtCoxVzvIvcLr_g/edit?usp=sharing) |
+| Lab 2 | [Lab 2](https://docs.google.com/document/d/17L3cVhmQ5m-W2jOnt2Gik3KIyNuMsXzMXjZvWkSPXDI/edit?usp=sharing) |
+| Lab 3 | [Lab 3](https://docs.google.com/document/d/1s0Caph_Pol1JjYzB-nXCCbRG-f_3GoMv11OidKHDGdo/edit?tab=t.0#heading=h.cjexwmy918sg) |
+| Lab 4 | [Lab 4](https://docs.google.com/document/d/1Sy1XJh8N8oPv5xJp0ZU-DQa1TfVb4dvQ6y2ZAhSRq5g/edit?usp=sharing) |
+| Lab 5 | [Lab 5](https://github.com/username/my-website) |
 
 ---
 
 ## 📌 Group Project
 
-|  ชื่องาน | 🔗 ลิงก์ |
-|-----------|---------|
-| Essay เครือข่ายคอมพิวเตอร์ที่ฉันรู้จักในชีวิตประจำวัน | [essay](https://docs.google.com/document/d/1H3C9FODXmAF1njLwbjPnBQSebrF2dKJZ0fRSnEk0tVo/edit?usp=sharing) |
-| เว็บไซต์แนะนำตัว | [GitHub](https://github.com/username/my-website) |
-| รายงาน AI | [Docs](https://docs.google.com/document/d/1H3C9FODXmAF1njLwbjPnBQSebrF2dKJZ0fRSnEk0tVo/edit?usp=sharing) |
+[🔗National long distance transport network](https://drive.google.com/drive/folders/1x1ucmDRs2I9mPIob3yY6IkaQgVptOJSd?usp=sharing)

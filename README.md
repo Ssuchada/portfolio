@@ -22,7 +22,7 @@ Description: A collection of projects and coursework that highlight my developme
 | Lab 2 | [Lab 2](https://docs.google.com/document/d/17L3cVhmQ5m-W2jOnt2Gik3KIyNuMsXzMXjZvWkSPXDI/edit?usp=sharing) |
 | Lab 3 | [Lab 3](https://docs.google.com/document/d/1s0Caph_Pol1JjYzB-nXCCbRG-f_3GoMv11OidKHDGdo/edit?tab=t.0#heading=h.cjexwmy918sg) |
 | Lab 4 | [Lab 4](https://docs.google.com/document/d/1Sy1XJh8N8oPv5xJp0ZU-DQa1TfVb4dvQ6y2ZAhSRq5g/edit?usp=sharing) |
-| Lab 5 | [Lab 5](https://github.com/username/my-website) |
+| Lab 5 | [Lab 5](https://docs.google.com/document/d/18PV4CJdBuA_8fngGwoIIoOXWUV9kpGeFlViU_uWhV_8/edit?usp=sharing) |
 
 ---
 

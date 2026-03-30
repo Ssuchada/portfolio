@@ -37,13 +37,4 @@ This includes all checkpoint and exam scores, including the final exam.
 
 <img src="assets/cisco.png" width="700">
 
----
-
-## 📌 Transcript
-<div style="display: flex; gap: 60px;">
-  <img src="assets/transcrpit.png" width="400">
-  <img src="assets/check.png" width="240">
-  <p align="center">       🚀 <b> I am a mastered learner !</b> 🚀</p>
-</div>
-
 

@@ -37,7 +37,7 @@ This includes all checkpoint and exam scores, including the final exam.
 
 <img src="assets/cisco.png" width="700">  
 
-<h3>📃Transcript for all classes in Cisco Academy</h3>
+<h3>📃Certificate for Introduction to Networks class in Cisco Academy</h3>
 
-<img src="assets/transcrpit.png" width="500">  
+<img src="assets/CCNA.jpg" width="500">  
 

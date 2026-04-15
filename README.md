@@ -43,7 +43,7 @@ This includes all checkpoint and exam scores, including the final exam.
 
 ---
 
-## 📌 WorkshopNetwork Programming 2025
+## 📌 Workshop Network Programming 2025
 Workshops can be accessed in the networkprogramming2025 folder on the main branch.
 [View output here](https://docs.google.com/document/d/1YWI-J94ebvmqtmbGnLuTGnZ-wMShz5pxveetyb_-6JA/edit?usp=sharing)
 

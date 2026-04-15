@@ -1,7 +1,7 @@
 # 📚 My Portfolio
 นางสาวสุชาดา ศรีจักรโคตร รหัสนักศึกษา 67338068-0  
 
-This repository contains projects and courseworks showcasing my development skills and experience in a network programming course. Workshops can be accessed in the networkprogramming2025 folder on the main branch.
+This repository contains projects and courseworks showcasing my development skills and experience in a network programming course. 
 
 ## 📌 งานเดี่ยว (Personal works)
 
@@ -40,4 +40,10 @@ This includes all checkpoint and exam scores, including the final exam.
 <h3>📃Certificate for Introduction to Networks class in Cisco Academy</h3>
 
 <img src="assets/CCNA.jpg" width="500">  
+
+---
+
+## 📌 WorkshopNetwork Programming 2025
+Workshops can be accessed in the networkprogramming2025 folder on the main branch.
+[View output here](https://docs.google.com/document/d/1YWI-J94ebvmqtmbGnLuTGnZ-wMShz5pxveetyb_-6JA/edit?usp=sharing)
 
